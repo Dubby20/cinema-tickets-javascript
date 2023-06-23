@@ -1,5 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/Dubby20/cinema-tickets-javascript/badge.svg?branch=main)](https://coveralls.io/github/Dubby20/cinema-tickets-javascript?branch=main)
-
 # Cinema Tickets Solution Using Javascript
 
 ## Prerequisites
